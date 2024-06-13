@@ -1,8 +1,0 @@
-﻿  consoleCommands.cpp
-  Создание кода
-C:\Users\George\Desktop\Polytech\1 курс\TP\TP3\TP3\inputOutputProcessing.cpp(11): warning C4715: mitkov::getPolygonFromLine: значение возвращается не при всех путях выполнения
-  197 of 728 functions (27.1%) were compiled, the rest were copied from previous compilation.
-    8 functions were new in current compilation
-    61 functions had inline decision re-evaluated but remain unchanged
-  Создание кода завершено
-  TP3.vcxproj -> C:\Users\George\Desktop\Polytech\1 курс\TP\TP3\Release\TP3.exe
